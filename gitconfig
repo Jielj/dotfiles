@@ -51,4 +51,6 @@
   rebase = false
 [user]
 	email = eljbari.jihane@gmail.com
-	name = Jihane ELJBARI
+	name = Jihane El Jbari
+[credential]
+	helper = cache
